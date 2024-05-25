@@ -1,0 +1,42 @@
+.App {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  input {
+    margin: 20px;
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .artist-info {
+    margin: 20px;
+  }
+  
+  .artist-info img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin: 10px 0;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #1db954;
+    font-weight: bold;
+  }
+  
