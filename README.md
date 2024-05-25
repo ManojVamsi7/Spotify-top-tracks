@@ -5,7 +5,7 @@ Features
 Search for an artist by name.
 View the top tracks of the searched artist.
 Responsive design for various screen sizes.
-Technologies Used
+Technologies Used 
 HTML5
 CSS3
 JavaScript (with Axios for HTTP requests)
